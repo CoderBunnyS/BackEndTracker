@@ -1,0 +1,46 @@
+[
+    {
+        "lastName": "Jones",
+        "firstName": "Jeremiah",
+        "email": "fakeemail@gmail.com",
+        "date_of_birth": "01/05/1990",
+        "jobs": [
+            {
+                "company": "Microsoft",
+                "jobTitle": "Software Engineer",
+                "appliedDate": "06/15/2020"
+            },
+            {
+                "company": "Big Fish",
+                "jobTitle": "Jr. Software Engineer",
+                "appliedDate": "06/14/2020"
+            },
+            {
+                "company": "Orion",
+                "jobTitle": "Software Developer",
+                "appliedDate": "06/13/2020"
+            }
+        ]}
+,
+{
+    "lastName": "Howard",
+    "firstName": "Brian",
+    "email": "anotjerfakeemail@gmail.com",
+    "date_of_birth": "01/05/1980",
+    "jobs": [
+        {
+            "company": "Walmart",
+            "jobTitle": "Customer Service",
+            "appliedDate": "06/15/2020"
+        },
+        {
+            "company": "Target",
+            "jobTitle": "Sales Associate",
+            "appliedDate": "06/14/2020"
+        },
+        {
+            "company": "KMart",
+            "jobTitle": "Cashier",
+            "appliedDate": "06/13/2020"
+        }
+    ]}]
